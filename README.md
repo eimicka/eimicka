@@ -3,9 +3,7 @@
 
 ## Tecnologias
 <ul><li>JavaScript - HTML - CSS </li></ul>
-<ul><li>UI Desgin utilizando FIGMA </li></ul>
-
-
+<ul><li>Figma para construir protótipos</li></ul>
 
 
 
